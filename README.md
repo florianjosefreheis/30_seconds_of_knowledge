@@ -113,7 +113,7 @@ The list for snippet repos can be found bellow:
 - [x] **Blacklist Snippets - Feature**
 - [x] **More Snippet Languages - Added Ramda**
 - [x] **More Snippet Languages - Added C++**
-- [x] **Release v1.2.0**
+- [ ] Release v1.2.0
 
 **Constant Work:**
 
